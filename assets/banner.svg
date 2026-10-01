@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a38"/><stop offset="1" stop-color="#263065"/></linearGradient><linearGradient id="line"><stop stop-color="#36dfcc"/><stop offset="1" stop-color="#b79aff"/></linearGradient></defs>
+<rect width="1280" height="380" rx="24" fill="url(#bg)"/>
+<g stroke="#52618d" opacity=".24"><path d="M920 40V325M980 40V325M1040 40V325M1100 40V325M1160 40V325M1220 40V325M900 90H1240M900 150H1240M900 210H1240M900 270H1240"/></g>
+<g fill="none" stroke-linecap="round"><path d="M900 300C920 90 985 62 1030 144S1140 262 1240 134" stroke="#36dfcc" stroke-width="5"/><path d="M900 300C956 154 997 148 1070 196S1180 221 1240 181" stroke="#b79aff" stroke-width="4"/><path d="M900 300C983 234 1050 243 1240 226" stroke="#ffbd66" stroke-width="4"/></g>
+<text x="62" y="67" font-family="Arial,sans-serif" font-size="16" letter-spacing="4" fill="#79ecdc">COMPUTATIONAL MATHEMATICS</text>
+<text x="58" y="139" font-family="Arial,sans-serif" font-size="55" font-weight="700" fill="#ffffff">Fractional Boundary</text>
+<text x="58" y="205" font-family="Arial,sans-serif" font-size="55" font-weight="700" fill="#ffffff">Value Problems</text>
+<rect x="62" y="233" width="725" height="3" rx="1.5" fill="url(#line)"/>
+<text x="62" y="271" font-family="Arial,sans-serif" font-size="23" fill="#ccd8f6">Positive solutions &amp; the omitted ray fixed point theorem</text>
+<text x="62" y="330" font-family="Arial,sans-serif" font-size="17" fill="#90a7d0">GREEN FUNCTIONS   /   KERNEL ESTIMATES   /   NUMERICAL EXAMPLES</text>
+</svg>

@@ -1,0 +1,20 @@
+{
+  "samples": 300000,
+  "seed": 20260929,
+  "mismatches": 0,
+  "failures": 87085,
+  "F1_true": 42352,
+  "F2_true": 45251,
+  "remark_quadruple": {
+    "L": "9/5",
+    "R": "3",
+    "F1": false,
+    "F2": false
+  },
+  "conclusion_quadruple": {
+    "L": "4",
+    "R": "4",
+    "F1": true,
+    "F2": false
+  }
+}

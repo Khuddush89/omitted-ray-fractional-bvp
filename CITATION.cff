@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper it accompanies."
+title: "Code for: Positive Solutions of a Fractional BVP and the Reach of the Omitted Ray Fixed Point Theorem"
+authors:
+  - family-names: Khuddush
+    given-names: Mahammad
+    orcid: "https://orcid.org/0000-0002-1236-8334"
+  - family-names: Almuthaybiri
+    given-names: Saleh S.
+    orcid: "https://orcid.org/0000-0002-9399-3253"
+license: MIT
+repository-code: "https://github.com/Khuddush89/omitted-ray-fractional-bvp"
